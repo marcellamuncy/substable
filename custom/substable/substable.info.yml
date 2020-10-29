@@ -1,0 +1,13 @@
+name: Substable
+type: theme
+base theme: stable
+description: My own subtheme of stable
+core: 8.x
+libraries:
+  - substable/global-styling
+regions:
+  header: Header
+  content: Content
+  sidebar_left: 'Sidebar - Left'
+  sidebar_right: 'Sidebar - Right'
+  footer: Footer
